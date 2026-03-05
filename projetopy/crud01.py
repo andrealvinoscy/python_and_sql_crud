@@ -4,7 +4,7 @@ import mysql.connector
 conexao = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="@Ndre123",
+    password="(removi)",
     database="agenda_contatos"
 )
 

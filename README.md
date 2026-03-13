@@ -7,9 +7,13 @@
 ## Roadmap
 
 - [x] Create contact
-- [ ] List contacts
-- [ ] Update contact
-- [ ] Delete contact
+- [x] List contacts
+- [x] Update contact
+- [x] Delete contact
+      
+- [ ] Implement a structured CLI menu for the application
+- [ ] Improve user interaction and navigation in the terminal
+- [ ] Build a graphical interface to manage contacts outside the terminal
 
 
 Simple CRUD application for managing contacts using Python and MySQL.

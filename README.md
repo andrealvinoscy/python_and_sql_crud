@@ -11,8 +11,8 @@
 - [x] Update contact
 - [x] Delete contact
       
-- [ ] Implement a structured CLI menu for the application
-- [ ] Improve user interaction and navigation in the terminal
+- [x] Implement a structured CLI menu for the application
+- [x] Improve user interaction and navigation in the terminal
 - [ ] Build a graphical interface to manage contacts outside the terminal
 
 
